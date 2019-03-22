@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Forst",
+    "owner": {
+      "firstName": "Fred",
+      "lastName": "Duarte",
+      "mail": "forst@free.fr"
+    },
+    "openDays": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "openHours": {
+      "start": 10,
+      "end": 1
+    },
+    "beers": [
+      {
+        "type": "Blanche",
+        "name": "Blanche de Namur"
+      }
+    ]
+  },
+  {
+    "name": "Ninkashi",
+    "owner": {
+      "firstName": "Joe",
+      "lastName": "Summer",
+      "mail": "forst@free.fr"
+    },
+    "openDays": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "openHours": {
+      "start": 9,
+      "end": 1
+    },
+    "beers": [
+      {
+        "type": "Blonde",
+        "name": "Triple Karmeliet"
+      },
+      {
+        "type": "Blanche",
+        "name": "Blanche de Namur"
+      }
+    ]
+  }
+]
